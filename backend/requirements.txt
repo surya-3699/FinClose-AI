@@ -1,7 +1,7 @@
 fastapi==0.115.8
 uvicorn[standard]==0.34.0
 pandas==2.2.3
-rapidfuzz==3.11.0
+rapidfuzz==3.14.5
 pydantic==2.10.6
 python-multipart==0.0.20
 pytest==8.3.4
