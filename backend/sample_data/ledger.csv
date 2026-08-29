@@ -1,0 +1,6 @@
+id,reference,amount,date,customer
+L001,pay_1001,1200,2026-08-01,Acme
+L002,pay_1002,850,2026-08-02,Nova
+L003,pay1003a,2100,2026-08-04,Zen
+L004,pay-1004,500,2026-08-06,Orbit
+L005,manual-entry,420,2026-08-09,Internal
